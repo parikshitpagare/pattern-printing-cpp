@@ -11,4 +11,4 @@ This repository is a collection of solved problems on printing patterns using C+
 Each category has its own README file which includes the patterns and the link to the code of that particular pattern. This avoids the need to open each file and figure out the pattern solved.
 
 ## Why this repository?
-To develop logic as well as understand working of loops and implement them efficiently.  
+To develop logic as well as understand working of loops and their efficient implementation.  
