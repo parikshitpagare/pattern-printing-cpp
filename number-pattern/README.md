@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td><img src="_assets/num_pattern_square_01.png" width="150"></td>
-    <td><ref ></td>
+    <td><a href="num_pattern_square_01.cpp">num_pattern_square_01.cp</a></td>
   </tr>
 
 </table>
