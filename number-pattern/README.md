@@ -1,5 +1,7 @@
 # Pattern Printing Based on Numbers
 
+&nbsp;
+
 ## Square Patterns
 
 <table>
@@ -39,6 +41,8 @@
     <td><a href="num_pattern_square_05.cpp">num_pattern_square_05</a></td>
   </tr>
 </table>
+
+&nbsp;
 
 ## Triangle Patterns
 
@@ -189,6 +193,8 @@
     <td><a href="num_pattern_triangle4_04.cpp">num_pattern_triangle4_04</a></td>
   </tr>
 </table>
+
+&nbsp;
 
 ## Pyramid Patterns
 
