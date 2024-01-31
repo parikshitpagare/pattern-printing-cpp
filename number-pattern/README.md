@@ -1,6 +1,5 @@
 # Pattern Printing Based on Numbers
 
-
 &nbsp;
 
 ## Square Patterns
@@ -14,31 +13,31 @@
   
   <tr>
     <td>1</td>
-    <td><img src="_assets/num_pattern_square_01.png" width="150"></td>
+    <td><img src="_assets/num_pattern_square_01.png" width="180"></td>
     <td><a href="num_pattern_square_01.cpp">num_pattern_square_01</a></td>
   </tr>
   
   <tr>
     <td>2</td>
-    <td><img src="_assets/num_pattern_square_02.png" width="150"></td>
+    <td><img src="_assets/num_pattern_square_02.png" width="180"></td>
     <td><a href="num_pattern_square_02.cpp">num_pattern_square_02</a></td>
   </tr>
     
   <tr>
     <td>3</td>
-    <td><img src=" " width="150"></td>
+    <td><img src="_assets/num_pattern_square_03.png" width="180"></td>
     <td><a href="num_pattern_square_03.cpp">num_pattern_square_03</a></td>
   </tr>
     
   <tr>
     <td>4</td>
-    <td><img src=" " width="150"></td>
+    <td><img src="_assets/num_pattern_square_04.png" width="180"></td>
     <td><a href="num_pattern_square_04.cpp">num_pattern_square_04</a></td>
   </tr>
     
   <tr>
     <td>5</td>
-    <td><img src=" " width="150"></td>
+    <td><img src="_assets/num_pattern_square_05.png" width="180"></td>
     <td><a href="num_pattern_square_05.cpp">num_pattern_square_05</a></td>
   </tr>
 </table>
