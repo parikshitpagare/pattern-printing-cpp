@@ -171,25 +171,25 @@
   
   <tr>
     <td>1</td>
-    <td><img src=" " width="180"></td>
+    <td><img src="_assets/num_pattern_triangle4_01.png" width="180"></td>
     <td><a href="num_pattern_triangle4_01.cpp">num_pattern_triangle4_01</a></td>
   </tr>
   
   <tr>
     <td>2</td>
-    <td><img src=" " width="180"></td>
+    <td><img src="_assets/num_pattern_triangle4_02.png" width="180"></td>
     <td><a href="num_pattern_triangle4_02.cpp">num_pattern_triangle4_02</a></td>
   </tr>
     
   <tr>
     <td>3</td>
-    <td><img src=" " width="180"></td>
+    <td><img src="_assets/num_pattern_triangle4_03.png" width="180"></td>
     <td><a href="num_pattern_triangle4_03.cpp">num_pattern_triangle4_03</a></td>
   </tr>
     
   <tr>
     <td>4</td>
-    <td><img src=" " width="180"></td>
+    <td><img src="_assets/num_pattern_triangle4_04.png" width="180"></td>
     <td><a href="num_pattern_triangle4_04.cpp">num_pattern_triangle4_04</a></td>
   </tr>
 </table>
