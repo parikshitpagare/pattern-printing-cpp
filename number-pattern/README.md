@@ -57,37 +57,37 @@
   
   <tr>
     <td>1</td>
-    <td><img src=" " width="150"></td>
+    <td><img src="_assets/num_pattern_triangle1_01.png" width="180"></td>
     <td><a href="num_pattern_triangle1_01.cpp">num_pattern_triangle1_01</a></td>
   </tr>
   
   <tr>
     <td>2</td>
-    <td><img src=" " width="150"></td>
+    <td><img src="_assets/num_pattern_triangle1_02.png" width="180"></td>
     <td><a href="num_pattern_triangle1_02.cpp">num_pattern_triangle1_02</a></td>
   </tr>
     
   <tr>
     <td>3</td>
-    <td><img src=" " width="150"></td>
+    <td><img src="_assets/num_pattern_triangle1_03.png" width="180"></td>
     <td><a href="num_pattern_triangle1_03.cpp">num_pattern_triangle1_03</a></td>
   </tr>
     
   <tr>
     <td>4</td>
-    <td><img src=" " width="150"></td>
+    <td><img src="_assets/num_pattern_triangle1_04.png" width="180"></td>
     <td><a href="num_pattern_triangle1_04.cpp">num_pattern_triangle1_04</a></td>
   </tr>
     
   <tr>
     <td>5</td>
-    <td><img src=" " width="150"></td>
+    <td><img src="_assets/num_pattern_triangle1_05.png" width="180"></td>
     <td><a href="num_pattern_triangle1_05.cpp">num_pattern_triangle1_05</a></td>
   </tr>
 
   <tr>
     <td>6</td>
-    <td><img src=" " width="150"></td>
+    <td><img src="_assets/num_pattern_triangle1_06.png" width="180"></td>
     <td><a href="num_pattern_triangle1_06.cpp">num_pattern_triangle1_06</a></td>
   </tr>
 </table>
