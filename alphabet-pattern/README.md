@@ -1,4 +1,4 @@
-# Pattern Printing Based on alphabers
+# Pattern Printing Based on Alphabets
 
 &nbsp;
 
