@@ -78,18 +78,6 @@
     <td><img src="_assets/alpha_pattern_triangle1_04.png" width="180"></td>
     <td><a href="alpha_pattern_triangle1_04.cpp">alpha_pattern_triangle1_04</a></td>
   </tr>
-    
-  <tr>
-    <td>5</td>
-    <td><img src="_assets/alpha_pattern_triangle1_05.png" width="180"></td>
-    <td><a href="alpha_pattern_triangle1_05.cpp">alpha_pattern_triangle1_05</a></td>
-  </tr>
-
-  <tr>
-    <td>6</td>
-    <td><img src="_assets/alpha_pattern_triangle1_06.png" width="180"></td>
-    <td><a href="alpha_pattern_triangle1_06.cpp">alpha_pattern_triangle1_06</a></td>
-  </tr>
 </table>
 
 ### Type 2
