@@ -1,5 +1,6 @@
 # Pattern Printing Based on Numbers
 
+
 &nbsp;
 
 ## Square Patterns
@@ -19,7 +20,7 @@
   
   <tr>
     <td>2</td>
-    <td><img src=" " width="150"></td>
+    <td><img src="_assets/num_pattern_square_02.png" width="150"></td>
     <td><a href="num_pattern_square_02.cpp">num_pattern_square_02</a></td>
   </tr>
     
